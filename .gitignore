@@ -1,0 +1,6 @@
+# Ignorando os arquivos com previlégio privado
+.venv
+
+.vscode
+
+.pytest_cache
